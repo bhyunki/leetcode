@@ -5,7 +5,4 @@ class Solution:
             l = list(w)
             l.sort()
             d[''.join(l)].append(w)
-        answer=[]
-        for i in d:
-            answer.append(sorted(d[i]))
-        return sorted(answer, key=len)
+        return d.values()
