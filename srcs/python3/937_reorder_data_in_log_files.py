@@ -19,5 +19,5 @@ class Solution:
         
         answer=[]
         for log in sort:
-            answer.append(log[0]+' '+' '.join(str(e) for e in log[1]))
+            answer.append(log[0]+' '+' '.join(log[1]))
         return answer
