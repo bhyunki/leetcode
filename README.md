@@ -7,3 +7,4 @@
 |3|[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python3](./srcs/python3/937_reorder_data_in_log_files.py) |Easy|
 |4|[819. Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python3](./srcs/python3/819_most_common_word.py) |Easy|
 |5|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python3](./srcs/python3/49_group_anagrams.py) |Medium|
+|6|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palidromic-substring/) | [Python3](./srcs/python3/5_longest_palindromic_substring.py) |Medium|
