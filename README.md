@@ -11,3 +11,4 @@
 |7|[1. Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](./srcs/python3/1_two_sum.py) |Easy|
 |8|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python3](./srcs/python3/42_trapping_rain_water.py) |Hard|
 |9|[15. 3Sum](https://leetcode.com/problems/3sum/) | [Python3](./srcs/python3/15_3sum.py) |Medium|
+|10|[561. Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python3](./srcs/python3/561_array_partition_i.py) |Medium|
