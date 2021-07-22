@@ -13,3 +13,4 @@
 |9|[15. 3Sum](https://leetcode.com/problems/3sum/) | [Python3](./srcs/python3/15_3sum.py) |Medium|
 |10|[561. Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python3](./srcs/python3/561_array_partition_i.py) |Easy|
 |11|[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python3](./srcs/python3/238_product_of_array_except_self.py) |Medium|
+|12|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./srcs/python3/121_best_time_to_buy_and_sell_stock.py) |Easy|
