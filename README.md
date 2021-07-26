@@ -15,3 +15,4 @@
 |11|[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python3](./srcs/python3/238_product_of_array_except_self.py) |Medium|
 |12|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./srcs/python3/121_best_time_to_buy_and_sell_stock.py) |Easy|
 |13|[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python3](./srcs/python3/234_palindrome_linked_list.py) |Easy|
+|14|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](./srcs/python3/21_merge_two_sorted_lists.py) |Easy|
