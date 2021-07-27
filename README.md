@@ -18,4 +18,4 @@
 |14|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](./srcs/python3/21_merge_two_sorted_lists.py) |Easy|
 |15|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./srcs/python3/206_reverse_linked_list.py) |Easy|
 |16|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](./srcs/python3/2_add_two_numbers.py) |Medium|
-|17|[24. Swap Nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3](./srcs/python3/24_swap_nodes_in_pairs.py) |Medium|
+|17|[24. Swap Nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3](./srcs/python3/24_swap_nodes_in_pair.py) |Medium|
