@@ -22,3 +22,4 @@
 |18|[328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [Python3](./srcs/python3/328_odd_even_linked_list.py) |Medium|
 |19|[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [Python3](./srcs/python3/92_reverse_linked_list_ii.py) |Medium|
 |20|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python3](./srcs/python3/20_valid_parentheses.py) |Easy|
+|21|[739. Daily Temperatures](https://leetcode.com/problems/valid-temperatures) | [Python3](./srcs/python3/739_daily_temperatures.py) |Medium|
