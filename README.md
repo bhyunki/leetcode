@@ -23,3 +23,4 @@
 |19|[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [Python3](./srcs/python3/92_reverse_linked_list_ii.py) |Medium|
 |20|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python3](./srcs/python3/20_valid_parentheses.py) |Easy|
 |21|[739. Daily Temperatures](https://leetcode.com/problems/valid-temperatures) | [Python3](./srcs/python3/739_daily_temperatures.py) |Medium|
+|22|[225. Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Python3](./srcs/python3/225_implement_stack_using_queues.py) |Easy|
