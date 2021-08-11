@@ -26,3 +26,4 @@
 |22|[225. Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Python3](./srcs/python3/225_implement_stack_using_queues.py) |Easy|
 |23|[232. Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [Python3](./srcs/python3/232_implement_queue_using_stacks.py) |Easy|
 |24|[622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | [Python3](./srcs/python3/622_design_circular_queue.py) |Medium|
+|25|[642. Design Circular Deque](https://leetcode.com/problems/design-circular-deque) | [Python3](./srcs/python3/641_design_circular_deque.py) |Medium|
