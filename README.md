@@ -28,3 +28,4 @@
 |24|[622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | [Python3](./srcs/python3/622_design_circular_queue.py) |Medium|
 |25|[641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque) | [Python3](./srcs/python3/641_design_circular_deque.py) |Medium|
 |26|[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python3](./srcs/python3/23_merge_k_sorted_lists.py) |Hard|
+|27|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python3](./srcs/python3/771_jewels_and_stones.py) |Easy|
