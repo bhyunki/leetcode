@@ -27,3 +27,4 @@
 |23|[232. Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [Python3](./srcs/python3/232_implement_queue_using_stacks.py) |Easy|
 |24|[622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | [Python3](./srcs/python3/622_design_circular_queue.py) |Medium|
 |25|[641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque) | [Python3](./srcs/python3/641_design_circular_deque.py) |Medium|
+|26|[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python3](./srcs/python3/23_merge_k_sorted_lists.py) |Hard|
