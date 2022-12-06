@@ -36,3 +36,10 @@
 |32|[46. Permutations](https://leetcode.com/problems/permutations) | [Python3](./srcs/python3/46_permutations.py) / [Python3](./srcs/python3/46_permutations_1.py)|Medium|
 |33|[77. Combinations](https://leetcode.com/problems/combinations) | [Python3](./srcs/python3/77_combinations.py) |Medium|
 |34|[207. Course Schedule](https://leetcode.com/problems/course-schedule) | [Python3](./srcs/python3/207_course_schedule.py) |Medium|
+|35|[743 Network Delay Time](https://leetcode.com/problems/network-delay-time) | [Python3](./srcs/python3/743_network_delay_time.py) |Medium|
+|36|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python3](./srcs/python3/104_maximum_depth_of_binary_tree.py) |Easy|
+|37|[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Python3](./srcs/python3/543_diameter_of_binary_tree.py) |Easy|
+|38|[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path) | [Python3](./srcs/python3/687_longest_univalue_path.py) |Medium|
+|39|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Python3](./srcs/python3/226_invert_binary_tree.py) |Easy|
+|40|[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Python3](./srcs/python3/108_convert_sorted_array_to_binary_search_tree.py) |Easy|
+|41|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [Python3](./srcs/python3/938_range_sum_of_bst.py) |Easy|
