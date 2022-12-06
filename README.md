@@ -33,6 +33,6 @@
 |29|[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Python3](./srcs/python3/347_top_k_frequent_elements.py) |Medium|
 |30|[200. Number of Islands](https://leetcode.com/problems/number-of-islands) | [Python3](./srcs/python3/200_number_of_islands.py) |Medium|
 |31|[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python3](./srcs/python3/17_letter_combinations_of_a_phone_number.py) |Medium|
-|32|[46. Permutations](https://leetcode.com/problems/permutations) | [Python3](./srcs/python3/46_permutations.py) [Python3](./srcs/python3/46_permutations_1.py)|Medium|
+|32|[46. Permutations](https://leetcode.com/problems/permutations) | [Python3](./srcs/python3/46_permutations.py) / [Python3](./srcs/python3/46_permutations_1.py)|Medium|
 |33|[77. Combinations](https://leetcode.com/problems/combinations) | [Python3](./srcs/python3/77_combinations.py) |Medium|
 |34|[207. Course Schedule](https://leetcode.com/problems/course-schedule) | [Python3](./srcs/python3/207_course_schedule.py) |Medium|
